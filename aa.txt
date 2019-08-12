@@ -1,0 +1,5 @@
+JDK 100000   JDK时间是19281
+JSON 100000   JSON时间是1694
+jdk方式较慢
+json较快
+相对来说是JSON的hash较快
